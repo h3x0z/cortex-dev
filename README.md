@@ -1,4 +1,4 @@
-# Claude Dev
+# Cortex
 
 <p align="center">
   <img src="https://media.githubusercontent.com/media/saoudrizwan/claude-dev/main/demo.gif" width="100%" />
